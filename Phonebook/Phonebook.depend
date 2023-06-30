@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1659411224 source:d:\ahan's college documents\projects\phonebook\code.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string.h>
+
